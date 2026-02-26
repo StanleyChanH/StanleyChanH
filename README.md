@@ -4,9 +4,9 @@
 
 ### I'm Stanley | 我是 Stanley
 
-**Data Scientist | ML/DL/RL Expert | AI Agent Developer**
+**Data Scientist | Optimization & Control | Game Theory | ML/DL/RL**
 
-**数据科学家 | 机器学习/深度学习/强化学习 | AI Agent 开发者**
+**数据科学家 | 最优化与控制 | 博弈论 | 机器学习/深度学习/强化学习**
 
 ---
 
@@ -16,11 +16,11 @@
 
 **English:**
 
-I'm a **Data Scientist** passionate about **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**. I build AI-powered solutions ranging from Claude Code Skills and MCP Servers to edge AI applications and quantitative finance tools. I love transforming data into actionable insights and creating intelligent systems that solve real-world problems.
+I'm a **Data Scientist** with expertise in **Optimization**, **Game Theory**, and **Control Algorithms**. My work spans **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, combining mathematical foundations with practical AI applications. I build intelligent systems that solve complex decision-making problems in finance, robotics, and edge AI.
 
 **简体中文：**
 
-我是一名**数据科学家**，专注于**机器学习**、**深度学习**和**强化学习**。我构建各类 AI 驱动的解决方案，从 Claude Code Skills 和 MCP 服务器到边缘 AI 应用和量化金融工具。我热爱将数据转化为可操作的洞察，并创建解决实际问题的智能系统。
+我是一名**数据科学家**，专长于**最优化设计**、**博弈论**和**控制算法**。我的工作涵盖**机器学习**、**深度学习**和**强化学习**，将数学基础与实际 AI 应用相结合。我构建智能系统来解决金融、机器人和边缘 AI 中的复杂决策问题。
 
 ---
 
@@ -28,46 +28,85 @@ I'm a **Data Scientist** passionate about **Machine Learning**, **Deep Learning*
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
+
+### 📐 Optimization
+### 最优化
+
+Convex Optimization
+Nonlinear Programming
+Portfolio Optimization
+
+凸优化
+非线性规划
+投资组合优化
+
+</td>
+<td width="25%" align="center">
+
+### 🎲 Game Theory
+### 博弈论
+
+Nash Equilibrium
+Mechanism Design
+Multi-Agent Games
+
+纳什均衡
+机制设计
+多智能体博弈
+
+</td>
+<td width="25%" align="center">
+
+### 🎛️ Control
+### 控制算法
+
+Optimal Control
+MPC / PID
+System Identification
+
+最优控制
+模型预测控制
+系统辨识
+
+</td>
+<td width="25%" align="center">
+
+### 🎮 RL
+### 强化学习
+
+Policy Gradient
+Q-Learning
+Multi-Agent RL
+
+策略梯度
+Q学习
+多智能体强化学习
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### 🤖 Machine Learning
 ### 机器学习
 
-Supervised / Unsupervised Learning
-Feature Engineering
-Model Optimization
+Supervised / Unsupervised Learning | Feature Engineering | Ensemble Methods
 
-监督/无监督学习
-特征工程
-模型优化
+监督/无监督学习 | 特征工程 | 集成方法
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ### 🧠 Deep Learning
 ### 深度学习
 
-Neural Networks
-Computer Vision (YOLO, OCR)
-NLP / LLM Applications
+Neural Networks | Computer Vision | NLP / LLM Applications
 
-神经网络
-计算机视觉
-NLP / LLM 应用
-
-</td>
-<td width="33%" align="center">
-
-### 🎮 Reinforcement Learning
-### 强化学习
-
-Policy Optimization
-Multi-Agent Systems
-Decision Making
-
-策略优化
-多智能体系统
-决策制定
+神经网络 | 计算机视觉 | NLP / LLM 应用
 
 </td>
 </tr>
@@ -229,6 +268,12 @@ A/B test sample size calculator based on statistical power analysis.
 
 <div align="center">
 
+### 📐 Optimization & Control | 最优化与控制
+![CVXPY](https://img.shields.io/badge/CVXPY-00599C?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge)
+![Gurobi](https://img.shields.io/badge/Gurobi-DD0F31?style=for-the-badge)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A7?style=for-the-badge)
+
 ### 🧠 ML / DL Frameworks | 机器学习框架
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -270,9 +315,9 @@ A/B test sample size calculator based on statistical power analysis.
 
 <div align="center">
 
-### 💡 "Turning Data into Intelligence, One Model at a Time"
+### 💡 "Optimizing Decisions, Modeling Interactions, Controlling Futures"
 
-### 💡 "将数据转化为智能，一次一个模型"
+### 💡 "优化决策，建模博弈，掌控未来"
 
 ---
 
