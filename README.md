@@ -165,9 +165,9 @@ Neural Networks | Computer Vision | NLP / LLM Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&v=1" alt="GitHub Stats" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&v=1" alt="Top Languages" width="48%"/>
 
 </div>
 
