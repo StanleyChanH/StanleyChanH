@@ -4,9 +4,9 @@
 
 ### I'm Stanley | 我是 Stanley
 
-**Data Scientist | Optimization & Control | Game Theory | ML/DL/RL**
+**Data Scientist | Kaggle Competition Expert | Optimization & Control | Game Theory | ML/DL/RL**
 
-**数据科学家 | 最优化与控制 | 博弈论 | 机器学习/深度学习/强化学习**
+**数据科学家 | Kaggle 竞赛专家 | 最优化与控制 | 博弈论 | 机器学习/深度学习/强化学习**
 
 ---
 
@@ -16,11 +16,11 @@
 
 **English:**
 
-I'm a **Data Scientist** with expertise in **Optimization**, **Game Theory**, and **Control Algorithms**. My work spans **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, combining mathematical foundations with practical AI applications. I build intelligent systems that solve complex decision-making problems in finance, robotics, and edge AI.
+I'm a **Data Scientist** and **Kaggle Competition Expert** with expertise in **Optimization**, **Game Theory**, and **Control Algorithms**. My work spans **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, combining mathematical foundations with practical AI applications. I build intelligent systems that solve complex decision-making problems in finance, robotics, and edge AI.
 
 **简体中文：**
 
-我是一名**数据科学家**，专长于**最优化设计**、**博弈论**和**控制算法**。我的工作涵盖**机器学习**、**深度学习**和**强化学习**，将数学基础与实际 AI 应用相结合。我构建智能系统来解决金融、机器人和边缘 AI 中的复杂决策问题。
+我是一名**数据科学家**和 **Kaggle 竞赛专家**，专长于**最优化设计**、**博弈论**和**控制算法**。我的工作涵盖**机器学习**、**深度学习**和**强化学习**，将数学基础与实际 AI 应用相结合。我构建智能系统来解决金融、机器人和边缘 AI 中的复杂决策问题。
 
 ---
 
@@ -28,7 +28,21 @@ I'm a **Data Scientist** with expertise in **Optimization**, **Game Theory**, an
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="20%" align="center">
+
+### 🏆 Kaggle
+### 竞赛专家
+
+Competition Expert
+Feature Engineering
+Ensemble Modeling
+
+竞赛专家
+特征工程
+集成建模
+
+</td>
+<td width="20%" align="center">
 
 ### 📐 Optimization
 ### 最优化
@@ -42,7 +56,7 @@ Portfolio Optimization
 投资组合优化
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🎲 Game Theory
 ### 博弈论
@@ -56,7 +70,7 @@ Multi-Agent Games
 多智能体博弈
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🎛️ Control
 ### 控制算法
@@ -70,7 +84,7 @@ System Identification
 系统辨识
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🎮 RL
 ### 强化学习
@@ -205,6 +219,7 @@ Neural Networks | Computer Vision | NLP / LLM Applications
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🔧 Tools & Platforms | 工具与平台
