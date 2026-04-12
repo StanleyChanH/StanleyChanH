@@ -4,7 +4,7 @@
 
 ### I'm Stanley | 我是 Stanley
 
-**Data Scientist | Kaggle Competition Expert | Optimization & Control | Game Theory | ML/DL/RL**
+**Data Scientist | Kaggle Competitions Expert | Optimization & Control | Game Theory | ML/DL/RL**
 
 **数据科学家 | Kaggle 竞赛专家 | 最优化与控制 | 博弈论 | 机器学习/深度学习/强化学习**
 
@@ -16,7 +16,7 @@
 
 **English:**
 
-I'm a **Data Scientist** and **Kaggle Competition Expert** with expertise in **Optimization**, **Game Theory**, and **Control Algorithms**. My work spans **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, combining mathematical foundations with practical AI applications. I build intelligent systems that solve complex decision-making problems in finance, robotics, and edge AI.
+I'm a **Data Scientist** and **Kaggle Competitions Expert** with expertise in **Optimization**, **Game Theory**, and **Control Algorithms**. My work spans **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, combining mathematical foundations with practical AI applications. I build intelligent systems that solve complex decision-making problems in finance, robotics, and edge AI.
 
 **简体中文：**
 
@@ -33,7 +33,7 @@ I'm a **Data Scientist** and **Kaggle Competition Expert** with expertise in **O
 ### 🏆 Kaggle
 ### 竞赛专家
 
-Competition Expert
+Competitions Expert
 Feature Engineering
 Ensemble Modeling
 
