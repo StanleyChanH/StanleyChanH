@@ -4,6 +4,8 @@
 
 ### I'm Stanley | 我是 Stanley
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist;Kaggle+Competitions+Expert;Optimization+%C2%B7+Game+Theory+%C2%B7+RL;Building+Claude+Code+Skills+%26+MCP+Servers" alt="Typing SVG" />
+
 **Data Scientist | Kaggle Competitions Expert | Optimization & Control | Game Theory | ML/DL/RL**
 
 **数据科学家 | Kaggle 竞赛专家 | 最优化与控制 | 博弈论 | 机器学习/深度学习/强化学习**
@@ -256,9 +258,9 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 
 <div align="center">
 
-<img src="https://github-readme-stats-jade-eta-25.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&v=667" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats-jade-eta-25.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&v=668" alt="GitHub Stats" width="48%"/>
 
-<img src="https://github-readme-stats-jade-eta-25.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&v=667" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats-jade-eta-25.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&v=668" alt="Top Languages" width="48%"/>
 
 </div>
 
@@ -268,11 +270,21 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=ffffff&color=000000&line=000000&point=FF6600&hide_border=true&area=true&height=160" alt="Activity Graph" width="94%"/>
+
+</div>
+
 ---
 
 ## 💻 Tech Stack | 技术栈
 
 <div align="center">
+
+### 🧠 Core Stack | 核心技术
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,keras,pandas,numpy,jupyter,docker,linux,git,github,vscode" alt="Skill Icons"/>
 
 ### 📐 Optimization & Control | 最优化与控制
 ![CVXPY](https://img.shields.io/badge/CVXPY-00599C?style=for-the-badge)
@@ -280,29 +292,15 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 ![Gurobi](https://img.shields.io/badge/Gurobi-DD0F31?style=for-the-badge)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A7?style=for-the-badge)
 
-### 🧠 ML / DL Frameworks | 机器学习框架
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
 ### 🤖 AI & LLM | 人工智能
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-FF6600?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 
-### 📊 Data Science | 数据科学
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 📊 Data & Edge | 数据与边缘
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🔧 Tools & Platforms | 工具与平台
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
