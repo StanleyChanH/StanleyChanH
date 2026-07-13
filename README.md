@@ -8,19 +8,19 @@
 
 **数据科学家 | Kaggle 竞赛专家 | 最优化与控制 | 博弈论 | 机器学习/深度学习/强化学习**
 
----
-
 </div>
+
+---
 
 ## 🧑‍💻 About Me | 关于我
 
 **English:**
 
-I'm a **Data Scientist** and **Kaggle Competitions Expert** with expertise in **Optimization**, **Game Theory**, and **Control Algorithms**. My work spans **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, combining mathematical foundations with practical AI applications. I build intelligent systems that solve complex decision-making problems in finance, robotics, and edge AI.
+I'm a **Data Scientist** and **Kaggle Competitions Expert** with expertise in **Optimization**, **Game Theory**, and **Control Algorithms**. My work spans **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, combining mathematical foundations with practical AI applications. Recently I focus on **Claude Code Skills**, **MCP Servers**, **Edge AI**, and **Quantitative Finance** — building intelligent systems that solve complex decision-making problems in finance, robotics, and the real world.
 
 **简体中文：**
 
-我是一名**数据科学家**和 **Kaggle 竞赛专家**，专长于**最优化设计**、**博弈论**和**控制算法**。我的工作涵盖**机器学习**、**深度学习**和**强化学习**，将数学基础与实际 AI 应用相结合。我构建智能系统来解决金融、机器人和边缘 AI 中的复杂决策问题。
+我是一名**数据科学家**和 **Kaggle 竞赛专家**，专长于**最优化设计**、**博弈论**和**控制算法**。我的工作涵盖**机器学习**、**深度学习**和**强化学习**，将数学基础与实际 AI 应用相结合。近期聚焦于 **Claude Code 技能包**、**MCP 服务器**、**边缘 AI** 和**量化金融** —— 构建智能系统来解决金融、机器人和现实世界中的复杂决策问题。
 
 ---
 
@@ -128,26 +128,101 @@ Neural Networks | Computer Vision | NLP / LLM Applications
 
 ---
 
+## 🔥 Featured Projects | 精选项目
+
+<table>
+<tr>
+<td width="50%">
+
+### 💹 [Tushare-Finance-Skill](https://github.com/StanleyChanH/Tushare-Finance-Skill-for-Claude-Code)
+
+Claude Code 金融数据技能包，220+ 接口，用自然语言获取 A 股行情、财务、宏观数据。
+Financial data skill for Claude Code — 220+ APIs for A-share market via natural language.
+
+![Stars](https://img.shields.io/github/stars/StanleyChanH/Tushare-Finance-Skill-for-Claude-Code?style=social) ![Forks](https://img.shields.io/github/forks/StanleyChanH/Tushare-Finance-Skill-for-Claude-Code?style=social)
+
+</td>
+<td width="50%">
+
+### 📦 [openclaw-offline-package](https://github.com/StanleyChanH/openclaw-offline-package)
+
+OpenClaw Windows 一键离线安装包，不依赖海外网络，解压即用。
+One-click offline installer for OpenClaw on Windows — no overseas network needed.
+
+![Stars](https://img.shields.io/github/stars/StanleyChanH/openclaw-offline-package?style=social) ![Forks](https://img.shields.io/github/forks/StanleyChanH/openclaw-offline-package?style=social)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [awesome-claude-data-agents](https://github.com/StanleyChanH/awesome-claude-data-agents)
+
+面向数据科学的 Claude Code AI Agent 团队，覆盖分析、建模、可视化全流程。
+A specialized team of Claude Code AI agents for data analysis, ML & visualization.
+
+![Stars](https://img.shields.io/github/stars/StanleyChanH/awesome-claude-data-agents?style=social) ![Forks](https://img.shields.io/github/forks/StanleyChanH/awesome-claude-data-agents?style=social)
+
+</td>
+<td width="50%">
+
+### 🌉 [MCP2Xiaozhi](https://github.com/StanleyChanH/MCP2Xiaozhi)
+
+将任意 MCP 服务器桥接到小智硬件，原生支持 STDIO/SSE/StreamableHTTP 三种传输。
+Bridge any MCP server to Xiaozhi hardware with three native transports.
+
+![Stars](https://img.shields.io/github/stars/StanleyChanH/MCP2Xiaozhi?style=social) ![Language](https://img.shields.io/github/languages/top/StanleyChanH/MCP2Xiaozhi)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ [Anti-BossShield](https://github.com/StanleyChanH/Anti-BossShield)
+
+基于 YOLOv8 的人脸识别监控系统，检测到特定人物自动锁定屏幕。
+YOLOv8-based face-recognition monitor that auto-locks the screen on target detection.
+
+![Stars](https://img.shields.io/github/stars/StanleyChanH/Anti-BossShield?style=social) ![Language](https://img.shields.io/github/languages/top/StanleyChanH/Anti-BossShield)
+
+</td>
+<td width="50%">
+
+### 📈 [SharpETF](https://github.com/StanleyChanH/SharpETF)
+
+通过最大化夏普比率寻找最优 ETF 投资组合的量化优化工具。
+Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
+
+![Stars](https://img.shields.io/github/stars/StanleyChanH/SharpETF?style=social) ![Language](https://img.shields.io/github/languages/top/StanleyChanH/SharpETF)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ What I Build | 开发方向
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 AI Agents & Tools
+### 🤖 AI Agents & Claude Code
 
-- **Claude Code Skills** - Extending AI coding capabilities
-- **MCP Servers** - Model Context Protocol implementations
-- **awesome-claude-data-agents** - Data science AI agent team
+- **Claude Code Skills** — Tushare, aliyun-image, MaixPy, SuperNovel…
+- **MCP Servers** — MCP2Xiaozhi, vllm-mcp (multimodal)
+- **awesome-claude-data-agents** — 数据科学 Agent 团队 (20⭐)
+- **openclaw-offline-package** — 一键离线安装 (49⭐)
 
 </td>
 <td width="50%">
 
-### 📱 Edge AI Applications
+### 📱 Edge AI & Robotics
 
-- **MaixCAM / ESP32 / Jetson** - On-device ML
-- **Real-time Vision** - YOLO, Face Recognition
-- **IoT Integration** - Smart monitoring systems
+- **MaixCAM / ESP32 / Jetson** — 端侧 ML 部署
+- **Anti-BossShield** — YOLOv8 实时人脸监控 (9⭐)
+- **ESP32-PC-Monitor** — OLED 实时性能监控
+- **ServoController** — 树莓派多路舵机控制
 
 </td>
 </tr>
@@ -156,18 +231,20 @@ Neural Networks | Computer Vision | NLP / LLM Applications
 
 ### 📈 Quantitative Finance
 
-- **SharpETF** - Portfolio optimization via Sharpe Ratio
-- **FUND-SELECTOR-CN** - Fund quantitative analysis
-- **ai-hedge-fund** - AI-powered trading agents
+- **Tushare-Finance-Skill** — 220+ 金融数据接口 (73⭐)
+- **SharpETF** — 夏普比率最优组合
+- **FUND-SELECTOR-CN** — 基金量化分析平台
+- **super-hedge-fund-skill** — 8 Agent 对冲基金分析
 
 </td>
 <td width="50%">
 
-### 📊 Data Science Tools
+### 📊 Data Science & Tools
 
-- **ABTestCalc** - Statistical power analysis
-- **Tushare-Finance-Skill** - Financial data pipeline
-- **ExcelToolsKit** - Data processing utilities
+- **ABTestCalc** — 统计功效分析样本量计算
+- **SuperNovel** — 多 Agent 长篇小说生成
+- **ExcelToolsKit / ChinaTaxTool** — 数据处理工具
+- **GitHub-Speed-Optimizer** — GitHub 访问加速
 
 </td>
 </tr>
@@ -179,9 +256,9 @@ Neural Networks | Computer Vision | NLP / LLM Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats-jade-eta-25.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&v=666" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats-jade-eta-25.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&v=667" alt="GitHub Stats" width="48%"/>
 
-<img src="https://github-readme-stats-jade-eta-25.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&v=666" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats-jade-eta-25.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&v=667" alt="Top Languages" width="48%"/>
 
 </div>
 
