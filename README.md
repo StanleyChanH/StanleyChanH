@@ -4,7 +4,11 @@
 
 ### I'm Stanley | 我是 Stanley
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist;Kaggle+Competitions+Expert;Optimization+%C2%B7+Game+Theory+%C2%B7+RL;Building+Claude+Code+Skills+%26+MCP+Servers" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Kaggle+Competitions+Expert;Optimization+%C2%B7+Game+Theory+%C2%B7+RL;Building+Claude+Code+Skills+%26+MCP+Servers" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist;Kaggle+Competitions+Expert;Optimization+%C2%B7+Game+Theory+%C2%B7+RL;Building+Claude+Code+Skills+%26+MCP+Servers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist;Kaggle+Competitions+Expert;Optimization+%C2%B7+Game+Theory+%C2%B7+RL;Building+Claude+Code+Skills+%26+MCP+Servers" alt="Typing SVG" />
+</picture>
 
 **Data Scientist | Kaggle Competitions Expert | Optimization & Control | Game Theory | ML/DL/RL**
 
@@ -258,21 +262,37 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 
 <div align="center">
 
-<img src="https://github-readme-stats-jade-eta-25.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&v=668" alt="GitHub Stats" width="48%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jade-eta-25.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&v=669" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jade-eta-25.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&v=669" />
+  <img src="https://github-readme-stats-jade-eta-25.vercel.app/api?username=StanleyChanH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&v=669" alt="GitHub Stats" width="48%" />
+</picture>
 
-<img src="https://github-readme-stats-jade-eta-25.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&v=668" alt="Top Languages" width="48%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jade-eta-25.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&v=669" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jade-eta-25.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&v=669" />
+  <img src="https://github-readme-stats-jade-eta-25.vercel.app/api/top-langs/?username=StanleyChanH&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&v=669" alt="Top Languages" width="48%" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=FF6600&currStreakLabel=000000" alt="GitHub Streak" width="70%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=FF6600&currStreakLabel=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=FF6600&currStreakLabel=000000" />
+  <img src="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=FF6600&currStreakLabel=000000" alt="GitHub Streak" width="70%" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=ffffff&color=000000&line=000000&point=FF6600&hide_border=true&area=true&height=160" alt="Activity Graph" width="94%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=00000000&color=ffffff&line=ffffff&point=FF6600&hide_border=true&area=true&height=160" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=ffffff&color=000000&line=000000&point=FF6600&hide_border=true&area=true&height=160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=ffffff&color=000000&line=000000&point=FF6600&hide_border=true&area=true&height=160" alt="Activity Graph" width="94%" />
+</picture>
 
 </div>
 
@@ -284,7 +304,11 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 
 ### 🧠 Core Stack | 核心技术
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,docker,linux,git,github,vscode" alt="Skill Icons"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,docker,linux,git,github,vscode" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,docker,linux,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,docker,linux,git,github,vscode&theme=light" alt="Skill Icons" />
+</picture>
 
 ### 📊 Data Science | 数据科学
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
