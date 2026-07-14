@@ -279,7 +279,7 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=FF6600&currStreakLabel=ffffff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=StanleyChanH&theme=dark&hide_border=true&background=00000000&fire=FF6600" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=FF6600&currStreakLabel=000000" />
   <img src="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=FF6600&currStreakLabel=000000" alt="GitHub Streak" width="70%" />
 </picture>
