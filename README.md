@@ -284,7 +284,15 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 
 ### 🧠 Core Stack | 核心技术
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,keras,pandas,numpy,jupyter,docker,linux,git,github,vscode" alt="Skill Icons"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,docker,linux,git,github,vscode" alt="Skill Icons"/>
+
+### 📊 Data Science | 数据科学
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 📐 Optimization & Control | 最优化与控制
 ![CVXPY](https://img.shields.io/badge/CVXPY-00599C?style=for-the-badge)
@@ -298,10 +306,10 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 
-### 📊 Data & Edge | 数据与边缘
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🔧 Edge & Platform | 边缘与平台
 ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![MaixCAM](https://img.shields.io/badge/MaixCAM-FF6600?style=for-the-badge)
 
 </div>
 
