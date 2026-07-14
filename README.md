@@ -145,7 +145,7 @@ Neural Networks | Computer Vision | NLP / LLM Applications
 Claude Code 金融数据技能包，220+ 接口，用自然语言获取 A 股行情、财务、宏观数据。
 Financial data skill for Claude Code — 220+ APIs for A-share market via natural language.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/Tushare-Finance-Skill-for-Claude-Code?style=social) ![Forks](https://img.shields.io/github/forks/StanleyChanH/Tushare-Finance-Skill-for-Claude-Code?style=social)
+![Stars](https://img.shields.io/github/stars/StanleyChanH/Tushare-Finance-Skill-for-Claude-Code?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/Tushare-Finance-Skill-for-Claude-Code?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 <td width="50%">
@@ -155,7 +155,7 @@ Financial data skill for Claude Code — 220+ APIs for A-share market via natura
 OpenClaw Windows 一键离线安装包，不依赖海外网络，解压即用。
 One-click offline installer for OpenClaw on Windows — no overseas network needed.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/openclaw-offline-package?style=social) ![Forks](https://img.shields.io/github/forks/StanleyChanH/openclaw-offline-package?style=social)
+![Stars](https://img.shields.io/github/stars/StanleyChanH/openclaw-offline-package?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/openclaw-offline-package?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 </tr>
@@ -167,7 +167,7 @@ One-click offline installer for OpenClaw on Windows — no overseas network need
 面向数据科学的 Claude Code AI Agent 团队，覆盖分析、建模、可视化全流程。
 A specialized team of Claude Code AI agents for data analysis, ML & visualization.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/awesome-claude-data-agents?style=social) ![Forks](https://img.shields.io/github/forks/StanleyChanH/awesome-claude-data-agents?style=social)
+![Stars](https://img.shields.io/github/stars/StanleyChanH/awesome-claude-data-agents?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/awesome-claude-data-agents?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 <td width="50%">
@@ -177,7 +177,7 @@ A specialized team of Claude Code AI agents for data analysis, ML & visualizatio
 将任意 MCP 服务器桥接到小智硬件，原生支持 STDIO/SSE/StreamableHTTP 三种传输。
 Bridge any MCP server to Xiaozhi hardware with three native transports.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/MCP2Xiaozhi?style=social) ![Language](https://img.shields.io/github/languages/top/StanleyChanH/MCP2Xiaozhi)
+![Stars](https://img.shields.io/github/stars/StanleyChanH/MCP2Xiaozhi?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/MCP2Xiaozhi?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 </tr>
@@ -189,7 +189,7 @@ Bridge any MCP server to Xiaozhi hardware with three native transports.
 基于 YOLOv8 的人脸识别监控系统，检测到特定人物自动锁定屏幕。
 YOLOv8-based face-recognition monitor that auto-locks the screen on target detection.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/Anti-BossShield?style=social) ![Language](https://img.shields.io/github/languages/top/StanleyChanH/Anti-BossShield)
+![Stars](https://img.shields.io/github/stars/StanleyChanH/Anti-BossShield?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/Anti-BossShield?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 <td width="50%">
@@ -199,7 +199,7 @@ YOLOv8-based face-recognition monitor that auto-locks the screen on target detec
 通过最大化夏普比率寻找最优 ETF 投资组合的量化优化工具。
 Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/SharpETF?style=social) ![Language](https://img.shields.io/github/languages/top/StanleyChanH/SharpETF)
+![Stars](https://img.shields.io/github/stars/StanleyChanH/SharpETF?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/SharpETF?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 </tr>
