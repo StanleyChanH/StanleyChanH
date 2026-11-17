@@ -10,9 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist;Kaggle+Competitions+Expert;Optimization+%C2%B7+Game+Theory+%C2%B7+RL;Building+Claude+Code+Skills+%26+MCP+Servers" alt="Typing SVG" />
 </picture>
 
-**Data Scientist | Kaggle Competitions Expert | Optimization & Control | Game Theory | ML/DL/RL**
-
-**数据科学家 | Kaggle 竞赛专家 | 最优化与控制 | 博弈论 | 机器学习/深度学习/强化学习**
+<img src="https://komarev.com/ghpvc/?username=StanleyChanH&color=FF6600&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -34,99 +32,60 @@ I'm a **Data Scientist** and **Kaggle Competitions Expert** with expertise in **
 
 <table>
 <tr>
-<td width="20%" align="center">
+<td width="33%" align="center">
 
-### 🏆 Kaggle
-### 竞赛专家
+### 🏆 Kaggle · 竞赛
 
-Competitions Expert
-Feature Engineering
-Ensemble Modeling
-
-竞赛专家
-特征工程
-集成建模
+Competitions Expert · 竞赛专家<br>
+Feature Engineering · 特征工程<br>
+Ensemble Modeling · 集成建模
 
 </td>
-<td width="20%" align="center">
+<td width="33%" align="center">
 
-### 📐 Optimization
-### 最优化
+### 📐 Optimization · 最优化
 
-Convex Optimization
-Nonlinear Programming
-Portfolio Optimization
-
-凸优化
-非线性规划
-投资组合优化
+Convex Optimization · 凸优化<br>
+Nonlinear Programming · 非线性规划<br>
+Portfolio Optimization · 投资组合优化
 
 </td>
-<td width="20%" align="center">
+<td width="33%" align="center">
 
-### 🎲 Game Theory
-### 博弈论
+### 🎲 Game Theory · 博弈论
 
-Nash Equilibrium
-Mechanism Design
-Multi-Agent Games
-
-纳什均衡
-机制设计
-多智能体博弈
-
-</td>
-<td width="20%" align="center">
-
-### 🎛️ Control
-### 控制算法
-
-Optimal Control
-MPC / PID
-System Identification
-
-最优控制
-模型预测控制
-系统辨识
-
-</td>
-<td width="20%" align="center">
-
-### 🎮 RL
-### 强化学习
-
-Policy Gradient
-Q-Learning
-Multi-Agent RL
-
-策略梯度
-Q学习
-多智能体强化学习
+Nash Equilibrium · 纳什均衡<br>
+Mechanism Design · 机制设计<br>
+Multi-Agent Games · 多智能体博弈
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### 🤖 Machine Learning
-### 机器学习
+### 🎛️ Control · 控制
 
-Supervised / Unsupervised Learning | Feature Engineering | Ensemble Methods
-
-监督/无监督学习 | 特征工程 | 集成方法
+Optimal Control · 最优控制<br>
+MPC / PID · 模型预测控制<br>
+System Identification · 系统辨识
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### 🧠 Deep Learning
-### 深度学习
+### 🎮 RL · 强化学习
 
-Neural Networks | Computer Vision | NLP / LLM Applications
+Policy Gradient · 策略梯度<br>
+Q-Learning · Q 学习<br>
+Multi-Agent RL · 多智能体强化学习
 
-神经网络 | 计算机视觉 | NLP / LLM 应用
+</td>
+<td width="33%" align="center">
+
+### 🤖 ML / DL · 机器学习
+
+Supervised / Unsupervised · 监督/无监督<br>
+Ensemble Methods · 集成方法<br>
+CV · NLP / LLM · 计算机视觉 · NLP/LLM
 
 </td>
 </tr>
@@ -172,34 +131,34 @@ A specialized team of Claude Code AI agents for data analysis, ML & visualizatio
 </td>
 <td width="50%">
 
-### 🌉 [MCP2Xiaozhi](https://github.com/StanleyChanH/MCP2Xiaozhi)
+### 📈 [SharpETF](https://github.com/StanleyChanH/SharpETF)
 
-将任意 MCP 服务器桥接到小智硬件，原生支持 STDIO/SSE/StreamableHTTP 三种传输。
-Bridge any MCP server to Xiaozhi hardware with three native transports.
+基于 Tushare API 的量化投资组合优化工具，以夏普比率最大化为目标求解最优 ETF 组合。
+Quantitative portfolio optimization — maximizing Sharpe ratio to find optimal ETF allocations.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/MCP2Xiaozhi?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/MCP2Xiaozhi?style=flat-square&color=6E7681&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/StanleyChanH/SharpETF?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/SharpETF?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛡️ [Anti-BossShield](https://github.com/StanleyChanH/Anti-BossShield)
+### 🎤 [VoiceVeritas](https://github.com/StanleyChanH/VoiceVeritas)
 
-基于 YOLOv8 的人脸识别监控系统，检测到特定人物自动锁定屏幕。
-YOLOv8-based face-recognition monitor that auto-locks the screen on target detection.
+面试反作弊朗读检测：韵律特征 + LightGBM 与冻结 wav2vec2 双轨方案，FastAPI 服务，说话人不相交基准。
+Audio-only read-speech detection for interview anti-cheating — dual-track prosody+LightGBM / wav2vec2, FastAPI service.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/Anti-BossShield?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/Anti-BossShield?style=flat-square&color=6E7681&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/StanleyChanH/VoiceVeritas?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/VoiceVeritas?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 📈 [SharpETF](https://github.com/StanleyChanH/SharpETF)
+### 🎬 [PixelAlgo](https://github.com/StanleyChanH/PixelAlgo)
 
-通过最大化夏普比率寻找最优 ETF 投资组合的量化优化工具。
-Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
+ML/DL 算法可视化与实战平台 · **60+ 个模型**（Transformer / Diffusion / GAN / GCN…）· NumPy 手写 + 框架双实现 · 沉浸式交互动画。
+Interactive ML/DL visualization & from-scratch platform — 60+ models with dual NumPy/framework code and live animations.
 
-![Stars](https://img.shields.io/github/stars/StanleyChanH/SharpETF?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/SharpETF?style=flat-square&color=6E7681&logo=github&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-pixelalgo.kittyhouse.top-5EEAD4?style=flat-square&logo=googlechrome&logoColor=white)](https://pixelalgo.kittyhouse.top) ![Stars](https://img.shields.io/github/stars/StanleyChanH/PixelAlgo?style=flat-square&color=FF6600&logo=github&logoColor=white) ![Forks](https://img.shields.io/github/forks/StanleyChanH/PixelAlgo?style=flat-square&color=6E7681&logo=github&logoColor=white)
 
 </td>
 </tr>
@@ -207,28 +166,32 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 
 ---
 
-## 🛠️ What I Build | 开发方向
+## 🧩 More Projects | 更多项目
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Agents & Claude Code
+### 🤖 AI Agents & Claude Code Skills
 
-- **Claude Code Skills** — Tushare, aliyun-image, MaixPy, SuperNovel…
-- **MCP Servers** — MCP2Xiaozhi, vllm-mcp (multimodal)
-- **awesome-claude-data-agents** — 数据科学 Agent 团队 (20⭐)
-- **openclaw-offline-package** — 一键离线安装 (49⭐)
+- [**super-hedge-fund-skill**](https://github.com/StanleyChanH/super-hedge-fund-skill) — 8 Agent 对冲基金股票分析
+- [**MicroClaw**](https://github.com/StanleyChanH/MicroClaw) — Python 最小化实现 OpenClaw 核心
+- [**Simple-Agent**](https://github.com/StanleyChanH/Simple-Agent) — ~700 行代码的教学版 AI Agent
+- [**feishu-claude-code-bridge**](https://github.com/StanleyChanH/feishu-claude-code-bridge) — 飞书直接操控 Claude Code
+- [**Agnes_skills**](https://github.com/StanleyChanH/Agnes_skills) · [**aliyun-image-skill**](https://github.com/StanleyChanH/aliyun-image-skill) — 生图/生视频技能包
+- [**vllm-mcp**](https://github.com/StanleyChanH/vllm-mcp) · [**MaixPy-skill**](https://github.com/StanleyChanH/MaixPy-skill) · [**kaliMaster_skill**](https://github.com/StanleyChanH/kaliMaster_skill) — MCP 与开发技能
 
 </td>
 <td width="50%">
 
-### 📱 Edge AI & Robotics
+### 📱 Edge AI & 小智硬件生态
 
-- **MaixCAM / ESP32 / Jetson** — 端侧 ML 部署
-- **Anti-BossShield** — YOLOv8 实时人脸监控 (9⭐)
-- **ESP32-PC-Monitor** — OLED 实时性能监控
-- **ServoController** — 树莓派多路舵机控制
+- [**MCP2Xiaozhi**](https://github.com/StanleyChanH/MCP2Xiaozhi) — 任意 MCP 服务器桥接小智硬件
+- [**XiaozhiFlash**](https://github.com/StanleyChanH/XiaozhiFlash) — 小智固件浏览器一键刷入
+- [**ESP32-PC-Monitor**](https://github.com/StanleyChanH/ESP32-PC-Monitor) — ESP32-S3 OLED 性能监控
+- [**ESP32-S3-LCD-MicroPython**](https://github.com/StanleyChanH/ESP32-S3-LCD-1.47B-MicroPython-Implementation) — 微雪开发板完整 MicroPython 实现
+- [**ServoController**](https://github.com/StanleyChanH/ServoController) · [**RpiUARTRX**](https://github.com/StanleyChanH/RpiUARTRX) — 树莓派舵机 / 串口通信
+- **MaixCAM / ESP32 / Jetson Orin** — 端侧 ML 部署
 
 </td>
 </tr>
@@ -237,20 +200,20 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 
 ### 📈 Quantitative Finance
 
-- **Tushare-Finance-Skill** — 220+ 金融数据接口 (73⭐)
-- **SharpETF** — 夏普比率最优组合
-- **FUND-SELECTOR-CN** — 基金量化分析平台
-- **super-hedge-fund-skill** — 8 Agent 对冲基金分析
+- [**FUND-SELECTOR-CN**](https://github.com/StanleyChanH/FUND-SELECTOR-CN) — 交互式公募基金量化分析平台
+- [**investment-data-skill**](https://github.com/StanleyChanH/investment-data-skill) — 高质量 A 股投资数据工具
 
 </td>
 <td width="50%">
 
-### 📊 Data Science & Tools
+### 🧰 Data Science & Fun Tools
 
-- **ABTestCalc** — 统计功效分析样本量计算
-- **SuperNovel** — 多 Agent 长篇小说生成
-- **ExcelToolsKit / ChinaTaxTool** — 数据处理工具
-- **GitHub-Speed-Optimizer** — GitHub 访问加速
+- [**ABTestCalc**](https://github.com/StanleyChanH/ABTestCalc) — 统计功效分析样本量计算
+- [**SuperNovel**](https://github.com/StanleyChanH/SuperNovel) — 多 Agent 长篇小说生成框架
+- [**AI-NewsGlance**](https://github.com/StanleyChanH/AI-NewsGlance) · [**URL2MD**](https://github.com/StanleyChanH/URL2MD) — AI 早报 / HTML→Markdown
+- [**Anti-BossShield**](https://github.com/StanleyChanH/Anti-BossShield) — YOLOv8 检测特定人物自动锁屏
+- [**ZhangXueFeng-Voice**](https://github.com/StanleyChanH/ZhangXueFeng-Voice) — TTS/STT/LLM 实时语音对话
+- [**ExcelToolsKit**](https://github.com/StanleyChanH/ExcelToolsKit) · [**ChinaTaxTool**](https://github.com/StanleyChanH/ChinaTaxTool) — 数据处理工具
 
 </td>
 </tr>
@@ -281,7 +244,7 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=StanleyChanH&theme=dark&hide_border=true&background=00000000&fire=FF6600" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=FF6600&currStreakLabel=000000" />
-  <img src="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=FF6600&currStreakLabel=000000" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=StanleyChanH&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=FF6600&currStreakLabel=000000" alt="GitHub Streak" width="55%" />
 </picture>
 
 </div>
@@ -289,9 +252,9 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=00000000&color=ffffff&line=ffffff&point=FF6600&hide_border=true&area=true&height=160" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=ffffff&color=000000&line=000000&point=FF6600&hide_border=true&area=true&height=160" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=ffffff&color=000000&line=000000&point=FF6600&hide_border=true&area=true&height=160" alt="Activity Graph" width="94%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=00000000&color=ffffff&line=ffffff&point=FF6600&hide_border=true&area=true&height=200" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=ffffff&color=000000&line=000000&point=FF6600&hide_border=true&area=true&height=200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanleyChanH&bg_color=ffffff&color=000000&line=000000&point=FF6600&hide_border=true&area=true&height=200" alt="Activity Graph" width="94%" />
 </picture>
 
 </div>
@@ -344,6 +307,9 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-StanleyChanH-181717?style=for-the-badge&logo=github)](https://github.com/StanleyChanH)
+<!-- TODO: 把下面两处 YOUR_KAGGLE_ID 替换为你的 Kaggle 用户名后，删除本行与下一行注释
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_ID)
+-->
 [![Gmail](https://img.shields.io/badge/Gmail-stanleychen0918-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanleychen0918@gmail.com)
 
 </div>
@@ -359,7 +325,5 @@ Quantitative ETF portfolio optimizer via Sharpe-ratio maximization.
 ---
 
 ⭐️ From [StanleyChanH](https://github.com/StanleyChanH)
-
-<img src="https://komarev.com/ghpvc/?username=StanleyChanH&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
 </div>
